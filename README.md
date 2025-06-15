@@ -1,6 +1,6 @@
 # Hi, I'm **Gonçalo Marques** (aka **Maruqes**) 👋
 
-I love making bits move—from toy kernels to Kubernetes clusters, from Intel x86 micro‑ops to RISC‑V boards.
+I love making bits move—from toy kernels to Kubernetes clusters
 
 ## TL;DR
 
