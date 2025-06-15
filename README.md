@@ -1,35 +1,48 @@
-# Olá, eu sou o **Maruqes** 👋
-## Sobre mim
+# Hi, I'm **Gonçalo Marques** (aka **Maruqes**) 👋
 
-* 🛠️ **Low‑level & DevOps** — adoro perceber o que se passa por baixo do capot e pôr tudo a funcionar em produção.
-* 🗄️ **Bases de Dados** — desde SQL a motores mais exóticos; gosto de perceber como guardam e servem bytes.
-* 📚 **Sempre a aprender** — se existir um tema novo, provavelmente já tenho uns artigos abertos sobre isso.
+I love making bits move—from toy kernels to Kubernetes clusters, from Intel x86 micro‑ops to RISC‑V boards.
 
-## O que vais encontrar aqui
+## TL;DR
 
-| Área                  | Exemplos de projectos                                        |
-| --------------------- | ------------------------------------------------------------ |
-| Programação Funcional | Pequenas libs em Haskell/OCaml & experiências com monads     |
-| Go                    | CLI tools, micro‑serviços, benchmarks                        |
-| C & Sistemas          | Kernels toy, sockets, tracing com eBPF                       |
-| DevOps                | GitHub Actions, Dockerfiles minimalistas, infra em Terraform |
-| Bases de Dados        | Índices artesanais, replicação, migrações automatizadas      |
+* 🖥️ **Low‑Level Systems** — kernels, compilers, deep dives into Intel x86 & binary instrumentation.
+* ⚙️ **Go & C# Back‑ends** — high‑performance micro‑services, Stripe integrations, event‑driven systems.
+* 🛠️ **DevOps** — CI/CD on GitHub Actions, Docker, Kubernetes, automated pipelines.
+* 🌐 **Polyglot Engineer** — C, C#, Java, Haskell… if it has logic, I’ll adapt.
+* 📚 **Lifelong Learner** — always reading about computer architecture, applied crypto and functional paradigms.
 
-> **Goal:** partilhar conhecimento e, de caminho, aprender ainda mais.
+## 🏆 Highlights
 
-## Em estudo neste momento
+| Project                       | Language   | TL;DR                                                   |
+| ----------------------------- | ---------- | ------------------------------------------------------- |
+| `compiler`                    | C          | Directly emits x86 opcodes—no LLVM, no assembler.       |
+| `os`                          | C/Assembly | Minimal 32‑bit OS, ISO ready for QEMU.                  |
+| `Tokenize`                    | Go         | Stripe‑backed auth + subscription REST API.             |
+| `githubWebhooks`              | Go         | Listener that pulls & restarts repos under PM2.         |
+| `motoClubeMourosBackend`      | Go         | API for motor‑club management.                          |
+| `AtivoPlus`                   | C#         | Stock portfolio tracker with real‑time graphs & alerts. |
+| `EatEase` + `EatEaseFrontend` | Java       | Full‑stack food‑ordering platform.                      |
 
-* ☸️ Kubernetes internals
-* 🔐 Criptografia aplicada a sistemas distribuídos
-* 🕸️ WebAssembly fora do browser
-* ⚙️ RISC‑V & micro‑controladores
+*(Find more in [all repos](https://github.com/Maruqes?tab=repositories))*
 
-## Como falar comigo
+## Favourite Languages & Tools
 
-Se algo aqui te chamar a atenção, abre uma **Issue** ou manda um **Pull Request**. Também me encontras no [LinkedIn](https://www.linkedin.com/in/maruqes) e no [Twitter](https://twitter.com/maruqes).
+`C` · `C# / .NET` · `Go` · `Java` · `Bash` · `Make` · `Docker` · `Kubernetes` · `GitHub Actions` · `Stripe` · `PostgreSQL` · `qemu-system` · `eBPF`
+
+## Currently Exploring
+
+* ☸️ Kubernetes internals & operators
+* 🏗️ Intel x86 microarchitecture (uops, caches, VT‑x)
+* 🕸️ WebAssembly in serverless contexts
+* 🔐 ZK‑Proofs & applied cryptography
+* 🛠️ RISC‑V firmware from scratch
+
+## Connect with me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/gonçalo-marques-45064329b~)
+* 🤝 Issues & Pull Requests are *always* welcome.
 
 ---
 
 <p align="center">
-  <em>“Hackei, logo existo.”</em>
+  <em>"I hack, therefore I am."</em>
 </p>
