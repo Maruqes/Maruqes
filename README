@@ -1,67 +1,35 @@
-<!-- Banner ou GIF opcional -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Bem-vindo(a)!&fontAlign=50&fontSize=40&color=ffffff&animation=twinkling&fontColor=ffffff" alt="banner">
-</p>
+# Olá, eu sou o **Maruqes** 👋
+## Sobre mim
 
-<h1 align="center">Olá, eu sou o <TEU NOME> 👋</h1>
+* 🛠️ **Low‑level & DevOps** — adoro perceber o que se passa por baixo do capot e pôr tudo a funcionar em produção.
+* 🗄️ **Bases de Dados** — desde SQL a motores mais exóticos; gosto de perceber como guardam e servem bytes.
+* 📚 **Sempre a aprender** — se existir um tema novo, provavelmente já tenho uns artigos abertos sobre isso.
 
-<p align="center">
-  <em><FRASE CURTA SOBRE TI — ex.: “Dev apaixonado por código limpo”></em>
-</p>
+## O que vais encontrar aqui
 
----
+| Área                  | Exemplos de projectos                                        |
+| --------------------- | ------------------------------------------------------------ |
+| Programação Funcional | Pequenas libs em Haskell/OCaml & experiências com monads     |
+| Go                    | CLI tools, micro‑serviços, benchmarks                        |
+| C & Sistemas          | Kernels toy, sockets, tracing com eBPF                       |
+| DevOps                | GitHub Actions, Dockerfiles minimalistas, infra em Terraform |
+| Bases de Dados        | Índices artesanais, replicação, migrações automatizadas      |
 
-## 📌 Sobre mim
-- 🔭 Neste momento estou a trabalhar em **<PROJECTO ATUAL>**
-- 🌱 A aprender **<TECNOLOGIA/STACK NOVA>**
-- 💬 Pergunta-me sobre **<ÁREAS DE ESPECIALIDADE>**
-- 🎯 Objectivo para 2025: **<META>**
-- ✨ Fun fact: **<PEQUENA CURIOSIDADE>**
+> **Goal:** partilhar conhecimento e, de caminho, aprender ainda mais.
 
----
+## Em estudo neste momento
 
-## 🛠️ Tech Stack
-<div align="center">
-  <!-- Exemplos de ícones – ajusta à tua stack -->
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker"/>
-</div>
+* ☸️ Kubernetes internals
+* 🔐 Criptografia aplicada a sistemas distribuídos
+* 🕸️ WebAssembly fora do browser
+* ⚙️ RISC‑V & micro‑controladores
+
+## Como falar comigo
+
+Se algo aqui te chamar a atenção, abre uma **Issue** ou manda um **Pull Request**. Também me encontras no [LinkedIn](https://www.linkedin.com/in/maruqes) e no [Twitter](https://twitter.com/maruqes).
 
 ---
 
-## 📈 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maruqes&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maruqes&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
-
-<!-- Linguagens mais usadas -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maruqes&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs"/>
-</p>
-
----
-
-## 🏆 Troféus (opcional)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maruqes&theme=gruvbox&no-frame=true&row=1&column=7" alt="trophies"/>
-</p>
-
----
-
-## 📫 Onde me encontrar
-<p align="center">
-  <a href="mailto:<teu-email>"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/<teu-linkedin>/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/<teu-twitter>"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</p>
-
----
-
-<!-- Pequena despedida / snake game -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Maruqes/Maruqes/main/images/snake.gif" alt="snake animation" />
+  <em>“Hackei, logo existo.”</em>
 </p>
