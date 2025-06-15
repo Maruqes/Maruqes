@@ -7,8 +7,7 @@ I love making bits move—from toy kernels to Kubernetes clusters
 * 🖥️ **Low‑Level Systems** — kernels, compilers, deep dives into Intel x86 & binary instrumentation.
 * ⚙️ **Go & C# Back‑ends** — high‑performance micro‑services, Stripe integrations, event‑driven systems.
 * 🛠️ **DevOps** — CI/CD on GitHub Actions, Docker, Kubernetes, automated pipelines.
-* 🌐 **Polyglot Engineer** — C, C#, Java, Haskell… if it has logic, I’ll adapt.
-* 📚 **Lifelong Learner** — always reading about computer architecture, applied crypto and functional paradigms.
+* 🌐 **Polyglot Engineer** — C, C#, Java, Go, Javascript… if it has logic, I’ll adapt.
 
 ## 🏆 Highlights
 
@@ -16,9 +15,8 @@ I love making bits move—from toy kernels to Kubernetes clusters
 | ----------------------------- | ---------- | ------------------------------------------------------- |
 | `compiler`                    | C          | Directly emits x86 opcodes—no LLVM, no assembler.       |
 | `os`                          | C/Assembly | Minimal 32‑bit OS, ISO ready for QEMU.                  |
-| `Tokenize`                    | Go         | Stripe‑backed auth + subscription REST API.             |
+| `Tokenize`                    | Go         | Stripe‑backed auth + subscription.                      |
 | `githubWebhooks`              | Go         | Listener that pulls & restarts repos under PM2.         |
-| `motoClubeMourosBackend`      | Go         | API for motor‑club management.                          |
 | `AtivoPlus`                   | C#         | Stock portfolio tracker with real‑time graphs & alerts. |
 | `EatEase` + `EatEaseFrontend` | Java       | Full‑stack food‑ordering platform.                      |
 
@@ -26,23 +24,15 @@ I love making bits move—from toy kernels to Kubernetes clusters
 
 ## Favourite Languages & Tools
 
-`C` · `C# / .NET` · `Go` · `Java` · `Bash` · `Make` · `Docker` · `Kubernetes` · `GitHub Actions` · `Stripe` · `PostgreSQL` · `qemu-system` · `eBPF`
+`C` · `C# / .NET` · `Go` · `Java` · `Bash` · `Make` · `Docker` · `Kubernetes` · `Stripe` · `PostgreSQL`
 
 ## Currently Exploring
 
 * ☸️ Kubernetes internals & operators
-* 🏗️ Intel x86 microarchitecture (uops, caches, VT‑x)
-* 🕸️ WebAssembly in serverless contexts
-* 🔐 ZK‑Proofs & applied cryptography
-* 🛠️ RISC‑V firmware from scratch
+* 🏗️ Intel x86 microarchitecture
 
 ## Connect with me
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/gonçalo-marques-45064329b~)
 * 🤝 Issues & Pull Requests are *always* welcome.
 
----
-
-<p align="center">
-  <em>"I hack, therefore I am."</em>
-</p>
