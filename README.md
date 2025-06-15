@@ -1,9 +1,6 @@
 # Hi, I'm **Gonçalo Marques** (aka **Maruqes**) 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Maruqes\&style=flat-square)
-![Top Language](https://img.shields.io/github/languages/top/Maruqes/compiler?style=flat-square)
-
-I love making bits move—from toy kernels to Kubernetes clusters, from Intel x86 micro‑ops to RISC‑V boards.
+I love making bits move—from toy kernels to Kubernetes clusters
 
 ## TL;DR
 
