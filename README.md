@@ -35,7 +35,7 @@ I love making bits move—from toy kernels to Kubernetes clusters
 
 ## 🧰 Toolbox (Now)
 
-`C` · `C# / .NET` · `Go` · `Java` · `Bash` · `Make` · `Docker` · `Kubernetes` · `GitHub Actions` · `Stripe` · `PostgreSQL` · `qemu-system` · `eBPF`
+`C` · `C# / .NET` · `Go` · `Java` · `Bash` · `Make` · `Docker` · `Kubernetes` · `Stripe` · `PostgreSQL` 
 
 ## Currently Exploring
 
