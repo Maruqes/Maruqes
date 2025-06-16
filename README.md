@@ -6,7 +6,6 @@ I love making bits move—from toy kernels to Kubernetes clusters
 
 * 🖥️ **Low‑Level Systems** — kernels, compilers, deep dives into Intel x86 & binary instrumentation.
 * ⚙️ **Go, C# & Java Back‑ends** — high‑performance micro‑services, Stripe integrations, event‑driven systems.
-* 🛠️ **DevOps** — CI/CD on GitHub Actions, Docker, Kubernetes, automated pipelines.
 * 🌐 **Polyglot Engineer** — C, C#, Java, Go, JavaScript… if it has logic, I’ll adapt.
 
 ---
