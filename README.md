@@ -39,7 +39,7 @@ I love making bits move—from toy kernels to Kubernetes clusters
 ## Currently Exploring
 
 * ☸️ Kubernetes internals & operators
-* 🏗️ Intel x86 microarchitecture (uops, caches, VT‑x)
+* 🏗️ Intel x86 microarchitecture
 
 ## Connect with me
 
