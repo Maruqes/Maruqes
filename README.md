@@ -34,11 +34,10 @@ I love making bits move—from toy kernels to Kubernetes clusters
 
 ## 🧰 Toolbox (Now)
 
-`C` · `C# / .NET` · `Go` · `Java` · `Bash` · `Make` · `Docker` · `Kubernetes` · `Stripe` · `PostgreSQL` 
+`C` · `C# / .NET` · `Go` · `Java` · `Bash` · `Make` · `Docker` · `Stripe` · `PostgreSQL` 
 
 ## Currently Exploring
 
-* ☸️ Kubernetes internals & operators
 * 🏗️ Intel x86 microarchitecture
 
 ## Connect with me
