@@ -17,7 +17,7 @@ I love making bits move—from toy kernels to Kubernetes clusters
 | **[compiler](https://github.com/Maruqes/compiler)** | C       | Generates raw x86 opcodes — no LLVM, no assembler.      |
 | **[os](https://github.com/Maruqes/os)**             | C / ASM | 32‑bit hobby OS, boots in QEMU.                         |
 | **[KubeFile](https://github.com/Maruqes/KubeFile)** | Go      | File Uploader and Url shortener with k8s (tilt/rancher) |
-| **[Tokenize](https://github.com/Maruqes/Tokenize)** | Go      | Stripe‑backed auth + subscription API.                  |
+
 
 ## 🎓 University Projects
 
