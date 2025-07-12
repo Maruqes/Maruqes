@@ -34,7 +34,7 @@ I love making bits move—from toy kernels to Kubernetes clusters
 
 ## 🧰 Toolbox (Now)
 
-`C` · `C# / .NET` · `Go` · `Java` · `Bash` · `Make` · `Docker` · `Stripe` · `PostgreSQL` 
+`C` · `C# / .NET` · `Go` · `Java` · `Bash` · `Make` · `Docker` · `PostgreSQL` 
 
 ## Currently Exploring
 
@@ -43,6 +43,4 @@ I love making bits move—from toy kernels to Kubernetes clusters
 ## Connect with me
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/gonçalo-marques-45064329b~)
-* 🤝 Issues & Pull Requests are **always** welcome.
-
 ---
