@@ -1,16 +1,10 @@
 # Hi, I'm **Gonçalo Marques** (aka **Maruqes**) 👋
 
-I love making bits move—from toy kernels to Kubernetes clusters
-
-## TL;DR
-
-* 🖥️ **Low‑Level Systems** — kernels, compilers, deep dives into Intel x86 & binary instrumentation.
-* ⚙️ **Go, C# & Java Back‑ends** — high‑performance micro‑services, Stripe integrations, event‑driven systems.
-* 🌐 **Polyglot Engineer** — C, C#, Java, Go, JavaScript… if it has logic, I’ll adapt.
+I love making bits move—from toy kernels to Kubernetes clusters and compilers and unique seerver related software
 
 ---
 
-## 🚀 Main Personal Projects
+## Main Personal Projects
 
 | Repo                                                | Stack   | What it does                                            |
 | --------------------------------------------------- | ------- | ------------------------------------------------------- |
@@ -19,26 +13,23 @@ I love making bits move—from toy kernels to Kubernetes clusters
 | **[KubeFile](https://github.com/Maruqes/KubeFile)** | Go      | File Uploader and Url shortener with k8s (tilt/rancher) |
 
 
-## 🎓 University Projects
+## University Projects
 
-| Repo                                                                                                                  | Stack              | What it does                                       |
-| --------------------------------------------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------- |
-| **[AtivoPlus](https://github.com/Maruqes/AtivoPlus)**                                                                 | C# /.NET           | Stock‑portfolio tracker with live charts & alerts. |
-| **[EatEase](https://github.com/Maruqes/EatEase)** & **[EatEaseFrontend](https://github.com/Maruqes/EatEaseFrontend)** | Java               | Full‑stack food‑ordering platform.                 |
-| **[LogicFlow](https://github.com/Maruqes/LogicFlow)**                                                                 | Java               | Propositional logic engine & visualiser.           |
-| **[VilaVerdeIonic](https://github.com/Maruqes/VilaVerdeIonic)**                                                       | TypeScript / Ionic | Mobile app for municipal management.               |
+| Repo                                                                                                                  | Stack              | What it does                                          |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------ | ----------------------------------------------------- |
+| **[HyperHive](https://github.com/Maruqes/HyperHive)**                                                                 | Go                 | One platform to manage all your servers effortlessly. |
+| **[AtivoPlus](https://github.com/Maruqes/AtivoPlus)**                                                                 | C# /.NET           | Stock‑portfolio tracker with live charts & alerts.    |
+| **[EatEase](https://github.com/Maruqes/EatEase)** & **[EatEaseFrontend](https://github.com/Maruqes/EatEaseFrontend)** | Java               | Full‑stack food‑ordering platform.                    |
+| **[LogicFlow](https://github.com/Maruqes/LogicFlow)**                                                                 | Java               | Propositional logic engine & visualiser.              |
+| **[VilaVerdeIonic](https://github.com/Maruqes/VilaVerdeIonic)**                                                       | TypeScript / Ionic | Mobile app for municipal management.                  |
 
 *(Explore the rest in my [GitHub profile](https://github.com/Maruqes?tab=repositories))*
 
 ---
 
-## 🧰 Toolbox (Now)
+## Toolbox (Now)
 
 `C` · `C# / .NET` · `Go` · `Java` · `Bash` · `Make` · `Docker` · `PostgreSQL` 
-
-## Currently Exploring
-
-* 🏗️ Intel x86 microarchitecture
 
 ## Connect with me
 
