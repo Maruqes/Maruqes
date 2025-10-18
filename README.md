@@ -33,5 +33,5 @@ I love making bits move—from toy kernels to Kubernetes clusters and compilers 
 
 ## Connect with me
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/gonçalo-marques-45064329b~)
+* [LinkedIn](https://www.linkedin.com/in/gonçalo-marques-45064329b~)
 ---
