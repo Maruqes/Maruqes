@@ -1,6 +1,5 @@
 # Hi, I'm **Gonçalo Marques** (aka **Maruqes**) 👋
-
-I love making bits move—from toy kernels to Kubernetes clusters and compilers and unique server related software
+I love making bits move!! From [toy kernels](https://github.com/Maruqes/os) to [Kubernetes clusters](https://github.com/Maruqes/KubeFile) and [compilers](https://github.com/Maruqes/compiler) and unique [server related software](https://github.com/Maruqes/HyperHive)
 
 ---
 
