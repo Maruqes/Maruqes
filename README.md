@@ -26,10 +26,6 @@ I love making bits move!! From [toy kernels](https://github.com/Maruqes/os) to [
 
 ---
 
-## Toolbox (Now)
-
-`C` · `C# / .NET` · `Go` · `Java` · `ASM x86` · `Bash` · `Docker` · `PostgreSQL` · `Clickhouse` 
-
 ## Connect with me
 
 * [LinkedIn](https://www.linkedin.com/in/gonçalo-marques-45064329b~)
